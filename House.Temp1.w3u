@@ -1,0 +1,35 @@
+{
+"name": "House Temp 1",
+"image": "https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+"url": "https://raw.githubusercontent.com/yIsus-mEx/",
+"info": "bY yIsus_mEx",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+{
+ "name": "CAPITULO 01",
+ "image": "https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+ "url": "",
+ "info": "2004",
+ "embed": "",
+ "isHost": "true",
+ "online": "true",
+ "userAgent":"PlusMediaPlayer/0.0.9",
+ "import": false
+ },
+{
+ "name": "CAPITULO 02",
+ "image": "https://pics.filmaffinity.com/house_m_d-431792846-large.jpg",
+ "url": "",
+ "info": "2004",
+ "embed": "",
+ "isHost": "true",
+ "online": "true",
+ "userAgent":"PlusMediaPlayer/0.0.9",
+ "import": false
+ }
+
+]
+}
